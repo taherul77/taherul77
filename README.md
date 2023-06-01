@@ -1,6 +1,5 @@
 <p align="center" ><img alt="" src="https://i.ibb.co/ZzLx5Yr/msg806254404-10873.jpg" width="auto" height="auto" /></p>
 
-<br>
 [![](https://visitcount.itsvg.in/api?id=taherul77&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-blue)
