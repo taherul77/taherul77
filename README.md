@@ -1,7 +1,7 @@
 <p align="center" ><img alt="" src="https://i.ibb.co/ZzLx5Yr/msg806254404-10873.jpg" width="auto" height="auto" /></p>
 
 <h1 align="center">
-  I'M SK Taherul ISLAM Taz </br>
+  I'M SK Taherul Islam Taz </br>
 
 </h1>
 
