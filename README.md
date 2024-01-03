@@ -1,6 +1,6 @@
 
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<p align="center" ><img alt="" src="https://i.ibb.co/ZzLx5Yr/msg806254404-10873.jpg" width="auto" height="auto" /></p>
+
 
 <h1 align="center">
   I'm SK Taherul Islam Taz </br>
