@@ -12,7 +12,11 @@
 ![living](https://img.shields.io/badge/living-Dhaka-blue)
 ![age](https://img.shields.io/badge/Age-26-blueviolet)
 [![Github](https://img.shields.io/github/followers/taherul77?label=Follow&style=social)](https://github.com/taherul77)
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 <h1> About Me </h1>
 🌱 I’m currently learning Next JS <br> 💬 Ask me about React, Next JS HTML, CSS, Bootstrap, Tailwind CSS, JavaScript <br> 👨‍💻 All of my projects are available at https://github.com/taherul77 <br>📫 How to reach me <a href="mailto:sktaherulislamtaz@gmail.com" target="_blank" rel="noopener" >sktaherulislamtaz@gmail.com</a> 
 
