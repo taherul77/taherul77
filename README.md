@@ -32,13 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
+
 </div>
 <p align="center"> <table> <h1 align="center">Github Stats</h1> <tr> <td><img alt="sakibulislam :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=taherul77&theme=tokyonight&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td> <!-- &hide=html --> <td> <img alt="Taherul Isalm :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherul77&langs_count=14&theme=tokyonight&layout=compact&hide=html"> </td> </tr> <tr> <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=taherul77&theme=tokyonight&hide_border=true"></td> </tr> </table></p>
 
